@@ -28,8 +28,8 @@ CREATE TABLE campaign (
     contact_id INT,
     company_name VARCHAR(255),
     description VARCHAR(255),
-    goal INT,
-    pledged INT,
+    goal NUMERIC,
+    pledged NUMERIC,
     outcome VARCHAR(255),
     backers_count INT,
     country VARCHAR(255),
@@ -45,4 +45,8 @@ CREATE TABLE campaign (
 	
 );
 
+SELECT * FROM category
+SELECT * FROM subcategory
+SELECT * FROM contacts
+SELECT * FROM campaign
 
