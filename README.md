@@ -44,4 +44,5 @@ We then created a new PostgreSQL database. Using the database schema, we created
   - `campaign.csv` (transformed)
   - `contacts.csv` (transformed)
 
-
+## Source of Data
+Data for this project was provided edX Boot Camps LLC.
