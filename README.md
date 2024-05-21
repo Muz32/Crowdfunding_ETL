@@ -10,7 +10,7 @@ In our team project, we developed an ETL (Extract, Transform, Load) pipeline usi
 
 ![ETL Process](https://github.com/Muz32/Crowdfunding_ETL/blob/b6a35acc6c787f6bf6c38a4133a31804a838106b/ETL%20process.png)
 
-Here are the detailed steps of our ETL process:
+Steps of our ETL process:
 
 ## 1.Extract
    We read data into Pandas DataFrames from the following Excel files: `crowdfunding.xlsx` and `contacts.xlsx`.
