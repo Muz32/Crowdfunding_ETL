@@ -35,7 +35,7 @@ We then created a new PostgreSQL database. Using the database schema, we created
 - **Extract Transform Load Project**
   - `ETL_Mini_Project_MAmin_JRadford_CMorgan_ENicol.ipynb`
   - `ERD_sketch.png`
-- **crowdfunding_db_schema.sql**
+  - `crowdfunding_db_schema.sql`
 - **Resources**
   - `crowdfunding.xlsx` (raw)
   - `contacts.xlsx` (raw)
