@@ -30,4 +30,18 @@ Steps of our ETL process:
 We created an Entity Relationship Diagram (ERD) using [Quick Database Diagrams](https://www.quickdatabasediagrams.com/), which was saved in the repository as ERD_sketch.jpeg. Using the ERD, we defined the table schema and saved it as crowdfunding_db_schema.sql.
 We then created a new PostgreSQL database. Using the database schema, we created tables for each CSV file and imported the data into their respective tables.
 
+## Folders and Files Structure
+
+- **Extract Transform Load Project**
+  - `ETL_Mini_Project_MAmin_JRadford_CMorgan_ENicol.ipynb`
+  - `ERD_sketch.png`
+- **crowdfunding_db_schema.sql**
+- **Resources**
+  - `crowdfunding.xlsx` (raw)
+  - `contacts.xlsx` (raw)
+  - `category.csv` (transformed)
+  - `subcategory.csv` (transformed)
+  - `campaign.csv` (transformed)
+  - `contacts.csv` (transformed)
+
 
