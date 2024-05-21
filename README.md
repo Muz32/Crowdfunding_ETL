@@ -8,7 +8,8 @@
 
 In our team project, we developed an ETL (Extract, Transform, Load) pipeline using Python and Pandas to manage data on crowdfunding projects. The processed data was then loaded into a newly created database via SQL. The following flowchart summarises our ETL process:
 
-https://github.com/Muz32/Crowdfunding_ETL/blob/b6a35acc6c787f6bf6c38a4133a31804a838106b/ETL%20process.png
+![ETL Process](https://github.com/Muz32/Crowdfunding_ETL/blob/b6a35acc6c787f6bf6c38a4133a31804a838106b/ETL%20process.png)
+
 
 Here are the detailed steps of our ETL process:
 
