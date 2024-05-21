@@ -17,12 +17,12 @@ Steps of our ETL process:
 
 ## 2.Transform
    New columns were created, renamed and unwanted columns dropped using the extracted data. The datatype for the columns were also formatted to the ideal datatypes. The tools and techniques used for data transformation included:
-   - `split`
-   - `numpy arange`
+   - 'split'
+   - 'numpy arange'
    - List comprehensions
-   - `astype`
-   - `datetime`
-   - `pandas merge`
+   - 'astype'
+   - 'datetime'
+   - pandas merge
    - DataFrame functions
 
    As a result, we created four new DataFrames: `category_df`, `subcategory_df`, `campaign_cleaned`, and `contacts_df_clean`. These were then exported to CSV files named `category.csv`, `subcategory.csv`, `campaign.csv`, and `contacts.csv`.
