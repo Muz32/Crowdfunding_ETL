@@ -16,11 +16,7 @@ Steps of our ETL process:
    We read data into Pandas DataFrames from the following Excel files: `crowdfunding.xlsx` and `contacts.xlsx`.
 
 ## 2.Transform
-   We performed several transformation tasks on the extracted data:
-   - Created new columns, renamed existing ones, and dropped unnecessary columns.
-   - Formatted column data types to the appropriate types.
-   
-   The tools and techniques used for data transformation included:
+   New columns were created, renamed and unwanted columns dropped using the extracted data. The datatype for the columns were also formatted to the ideal datatypes. The tools and techniques used for data transformation included:
    - `split`
    - `numpy arange`
    - List comprehensions
